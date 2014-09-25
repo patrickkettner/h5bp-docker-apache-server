@@ -1,0 +1,8 @@
+[submodule "sample-app"]
+	path = sample-app
+	url = git://github.com/h5bp/html5-boilerplate.git
+	branch = master
+[submodule "server-config"]
+	path = server-config
+	url = git://github.com/h5bp/server-configs-apache.git
+	branch = master
